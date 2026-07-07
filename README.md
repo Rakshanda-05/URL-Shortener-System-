@@ -4,7 +4,13 @@ A modern URL Shortener built with **Flask** that allows users to create short UR
 
 ## 🌐 Live Demo
 
-https://neonlink-ai-powered-url-shortner.onrender.com
+🔗 https://neonlink-ai-powered-url-shortner.onrender.com
+
+## 📸 Preview
+
+<p align="center">
+  <img src="images/homepage.png" alt="NeonLink Homepage" width="900">
+</p>
 
 ## ✨ Features
 
@@ -13,7 +19,7 @@ https://neonlink-ai-powered-url-shortner.onrender.com
 - 📱 QR code generation
 - ⚡ Fast URL redirection
 - 🎨 Responsive UI
-- 🌙 Dark/Light mode
+- 🌙 Dark/Light Mode
 
 ## 🛠️ Tech Stack
 
@@ -35,6 +41,6 @@ python app.py
 
 ## 👨‍💻 Author
 
-Rakshanda
+**Rakshanda**
 
-⭐ If you like this project, give it a star!
+⭐ If you found this project useful, consider giving it a star!

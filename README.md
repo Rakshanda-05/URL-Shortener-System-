@@ -8,9 +8,8 @@ A modern URL Shortener built with **Flask** that allows users to create short UR
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="images/homepage.png" alt="NeonLink Homepage" width="900">
-</p>
+![Homepage](Homepage.png)
+
 
 ## ✨ Features
 
